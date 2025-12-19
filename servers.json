@@ -1,0 +1,12 @@
+{
+  "servers": [
+    {
+      "name": "SVFHost Local",
+      "address": "http://192.168.0.69:6969"
+    },
+    {
+      "name": "SVFHost",
+      "address": "https://anisette.savafut.xyz"
+    }
+  ]
+}
