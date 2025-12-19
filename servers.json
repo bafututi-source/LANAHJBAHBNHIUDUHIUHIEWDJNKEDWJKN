@@ -6,7 +6,7 @@
     },
     {
       "name": "SVFHost",
-      "address": "https://anisette.savafut.xyz"
+      "address": "https://anisette.savafut.xyz:8069"
     }
   ]
 }
