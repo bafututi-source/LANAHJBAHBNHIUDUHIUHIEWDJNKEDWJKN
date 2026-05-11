@@ -6,7 +6,7 @@
     },
     {
       "name": "SVFHost",
-      "address": "https://mail.dav6e.org:6969"
+      "address": "http://mail.dav6e.org:6969"
     }
   ]
 }
